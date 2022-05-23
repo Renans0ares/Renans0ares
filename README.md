@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working as a **.NET developer on USE ERP**
 
-- 🌱 I’m currently learning **frontend Angular**
+- 🌱 I’m currently learning **Blazor**
 
 - 👯 I’m looking to collaborate on **Project Management**
 
