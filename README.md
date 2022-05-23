@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Renan</h1>
-<h3 align="center">A passionate software engineer from Brazil</h3>
+<h3 align="center">A software engineer from Brazil</h3>
 
 - 🔭 I’m currently working as a **.NET developer on USE ERP**
 
