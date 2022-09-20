@@ -1,11 +1,10 @@
 <h1 align="center">Hi there 👋, I'm Renan</h1>
-<h3 align="center">A software engineer from Brazil</h3>
 
 - 🔭 I’m currently working as a **.NET developer on USE ERP**
 
 - 🌱 I’m currently learning **Blazor**
 
-- 👯 I’m looking to collaborate on **Project Management**
+- 🤝 I’m looking to collaborate on **Project Management, Research Projects**
 
 - 💬 Ask me about **.Net Framework(C#), AspNet, WebApi and Agile Methodology.**
 
