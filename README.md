@@ -82,7 +82,11 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Renans0ares&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center">
+  <a href="https://github.com/Renans0ares">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renans0ares&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renans0ares&layout=compact&langs_count=7&theme=dracula"/>
+</div> 
 
 <br/>  
 
