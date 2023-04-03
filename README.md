@@ -10,7 +10,7 @@
 - ❓ Ask about anything you want.  
   
 
-- ⚡ Fun fact: There is a world in which I am better than the fallen.  
+- ⚡ Fun fact: There is a world in which I am better than the Fallen.  
   
 
 <br/>  
