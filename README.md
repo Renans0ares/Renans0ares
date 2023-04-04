@@ -4,7 +4,7 @@
 - 🔭 I’m currently working as a **[.NET](https://dotnet.microsoft.com/)** on **[USE](https://www.datasystem.com.br/use/)** ERP.  
   
 
-- 🌱 I’m currently learning **[React](https://react.dev/).**  
+- 🌱 I’m currently learning **[Angular](https://angular.io/).**  
   
 
 - ❓ Ask about anything you want.  
