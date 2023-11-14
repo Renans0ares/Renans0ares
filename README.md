@@ -2,7 +2,7 @@
     🔭 I’m currently working as a .NET on USE ERP.
     🌱 I’m currently learning Angular.
     ❓ Ask about anything you want.
-    ⚡ Fun fact: There is a world in which I am better than the Fallen.
+    ⚡  Fun fact: There is a world in which I am better than the Fallen.
 
 
 ## 🌐 Socials:
